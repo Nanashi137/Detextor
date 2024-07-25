@@ -6,4 +6,4 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 ```
 **Download pretrained model:** <br>
  &nbsp;&nbsp;&nbsp;&nbsp;Download big-lama from this google drive: [big-lama](https://drive.google.com/drive/folders/1wpY-upCo4GIW4wVPnlMh_ym779lLIG2A?usp=sharing) <br>
- &nbsp;&nbsp;&nbsp;&nbsp;Put the big-lama folder inside a ./pretrained_models
+ &nbsp;&nbsp;&nbsp;&nbsp;Put the big-lama folder inside a ./pretrained_models folder
