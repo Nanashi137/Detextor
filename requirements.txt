@@ -14,7 +14,6 @@ opencv_contrib_python==4.10.0.84
 opencv_python==4.10.0.84
 opencv_python_headless==4.10.0.84
 paddleocr==2.8.1
-paddleocr.egg==info
 pandas==2.2.2
 Pillow==10.4.0
 pytorch_lightning==1.2.9
