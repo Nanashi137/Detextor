@@ -1,4 +1,4 @@
-Setup enviroment: 
+_Setup enviroment:_ 
 ```
 conda create <enviroment_name> python=3.9
 pip install -r requirements.txt
