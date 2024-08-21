@@ -9,5 +9,5 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
  &nbsp;&nbsp;&nbsp;&nbsp;Put the big-lama folder inside a ./pretrained_models folder.
 
  **Usage** <br> 
- &nbsp;&nbsp;&nbsp;&nbsp;Put images in which you want to remove texts from in the input folder.
+ &nbsp;&nbsp;&nbsp;&nbsp;Put images in which you want to remove texts from in the input folder. <br>
  &nbsp;&nbsp;&nbsp;&nbsp;The result images will be in the output folder.
